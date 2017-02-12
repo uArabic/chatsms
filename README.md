@@ -1,2 +1,2 @@
-# chat sms
-chat sms
+# Send sms
+Send sms
