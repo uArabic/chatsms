@@ -12,9 +12,7 @@
   toolbar: 'undo redo | insert | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image',
   content_css: 'codepen.min.css'
 });
-  
- 
-  ;</script>
+;</script>
 
 
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
@@ -233,17 +231,7 @@ p  {
     font-size: 0.75em;
 }
 }	
-
-
-
-
-
-
-
-
-
-			
-		</style>
+</style>
 	</head>
 	<body>
 		<div id="chatbox">
@@ -269,14 +257,6 @@ p  {
 		</div>
 	</body>
 </html>
-
-
-
-
-
-
-
-
 <?php
  
 //<script src="http://js.nicedit.com/nicEdit-latest.js" type="text/javascript"></script>
@@ -284,19 +264,6 @@ p  {
 //<textarea name="input#inputfield" style="width: 100%;">				
  
 ?>
-
-
-
-
-
-
-
-
-
-
-
-
-		
 
 <script language="javascript" src="jquery-1.2.6.min.js"></script>
 <script language="javascript" src="jquery.timers-1.0.0.js"></script>
