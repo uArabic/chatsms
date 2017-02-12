@@ -5,14 +5,14 @@
  */
 
 // Default language ('en', 'ru', 'fr' and other from 'filemanager-l10n.php')
-$lang = 'ru';
+$lang = 'en';
 
 // Auth with login/password (set true/false to enable/disable it)
 $use_auth = true;
 
 // Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
 $auth_users = array(
-    'fm_admin' => 'fm_admin',
+    '1' => '1',
     //'user' => '12345',
 );
 
